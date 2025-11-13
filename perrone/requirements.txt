@@ -2,6 +2,7 @@ asgiref==3.10.0
 blinker==1.9.0
 click==8.2.1
 Django==5.2.8
+django-jazzmin==3.0.1
 djangorestframework==3.16.1
 Flask==3.1.2
 Flask-SQLAlchemy==3.0.5
